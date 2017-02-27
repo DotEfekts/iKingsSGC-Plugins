@@ -1,0 +1,6 @@
+name: iKingsChatBubbles
+main: net.dotefekts.ikingschatbubbles.iKingsChatBubbles
+version: 1.0
+depend: [Spout, PermissionsEx]
+author: DotEfekts
+website: http://www.dotefekts.net/

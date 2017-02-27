@@ -1,0 +1,11 @@
+name: Nameplates
+main: net.dotefekts.nameplates.Nameplates
+depend: [PermissionsEx,Spout]
+version: 1.0
+author: DotEfekts
+website: http://www.dotefekts.net/
+commands:
+   npreload:
+     description: Refresh nameplates.
+     usage: /npreload
+   

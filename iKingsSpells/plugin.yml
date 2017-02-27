@@ -1,0 +1,6 @@
+name: iKingsSpells
+main: net.dotefekts.ikingsspells.iKingsSpells
+depend: [PermissionsEx, LWC, Spout, Essentials]
+version: 1.0
+author: DotEfekts TheiKing
+website: http://www.iKingsSGC.com

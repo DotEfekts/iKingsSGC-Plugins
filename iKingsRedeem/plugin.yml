@@ -1,0 +1,12 @@
+name: iKingsRedeem
+main: net.dotefekts.ikingsredeem.iKingsRedeem
+version: 1.0
+author: DotEfekts
+website: http://www.dotefekts.net/
+commands:
+   redeem:
+      description: The command for all redeeming actions.
+      default: true
+      usage:
+      Example: /<command> - Lists all sub-commands.
+   

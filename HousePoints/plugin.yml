@@ -1,0 +1,13 @@
+name: HousePoints
+main: net.dotefekts.housepoints.HousePoints
+version: 1.0
+depend: [Spout, PermissionsEx]
+author: DotEfekts
+website: http://www.dotefekts.net/
+commands:
+   points:
+      description: Command to show House points sub commands.
+      default: true
+      usage:
+      Example: /<command> - Shows all sub commands.
+   

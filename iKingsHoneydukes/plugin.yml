@@ -1,0 +1,6 @@
+name: iKingsHoneydukes
+main: net.dotefekts.ikingshoneydukes.iKingsHoneydukes
+version: 1.1.1
+depend: [PermissionsEx,Spout]
+author: "[Code]DotEfekts [Artwork]TheiKing"
+website: "http://www.dotefekts.net/ - http://www.iKingsSGC.com/"
